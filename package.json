@@ -1,0 +1,17 @@
+{
+  "name": "bookshop",
+  "version": "1.0.0",
+  "description": "It is app for showcasing rest application on nodejs and mongodb as database",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "Suwigya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7",
+    "nodemon": "^1.11.0"
+  }
+}
