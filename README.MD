@@ -77,7 +77,7 @@ db.books.insert({title:'Harry Potter', genre: 'Fiction', description:'Story of M
 Now lets start our Graphql mix project 
 
 ```
-git clone https://github.com/suwigyarathore/BookShop-Rest-API.git
+git clone https://github.com/codediggeracademy/BookShop-Rest-API.git
 cd <cloned directory name>
 npm install
 npm start
